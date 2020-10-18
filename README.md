@@ -1,6 +1,8 @@
-Easy to use PDO MySQL framework for SELECT, INSERT, INSERT ON DUPLICATE UPDATE,  UPDATE, DELETE and TRUNCATE tasks.
+Easy to use PHP PDO MySQL framework for ```SELECT```, ```INSERT```, ```INSERT ON DUPLICATE UPDATE```,  ```UPDATE```, ```DELETE``` and ```TRUNCATE``` tasks.
 
 All the queries are done pre-prepared, helping fight SQL injection.
+
+To use simply ```require_once('easyPDO.php);``` and/or extend your class from ```easyPDO```.
 
 This framework is nothing special it just suits vertically and is more readable.
 
