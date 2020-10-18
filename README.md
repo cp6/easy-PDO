@@ -5,7 +5,7 @@ All the queries are done pre-prepared, helping fight SQL injection.
 [![Generic badge](https://img.shields.io/badge/php-7.4+-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/-PDO_MYSQL-blue.svg)](https://shields.io/)
 
-##Usage
+## Usage
 
 To use simply ```require_once('easyPDO.php);``` and/or extend your class from ```easyPDO```.
 
