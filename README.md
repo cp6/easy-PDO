@@ -2,9 +2,14 @@ Easy to use PHP PDO MySQL framework for ```SELECT```, ```INSERT```, ```INSERT ON
 
 All the queries are done pre-prepared, helping fight SQL injection.
 
+[![Generic badge](https://img.shields.io/badge/php-7.4+-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/-PDO_MYSQL-blue.svg)](https://shields.io/)
+
+##Usage
+
 To use simply ```require_once('easyPDO.php);``` and/or extend your class from ```easyPDO```.
 
-This framework is nothing special it just suits vertically and is more readable.
+This framework is nothing groundbreaking it just suits vertically and is more readable.
 
 ```php
 $db->insertDB('tablename', ['col','col2','col3','col4','col5'], ['value','value2','value3','value4','value5']);
